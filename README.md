@@ -1,7 +1,6 @@
 # 💫 About Me:
 Embedded hardware & firmware engineer.
 
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trungvd0508@gmail.com) 
 
